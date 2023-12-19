@@ -1,0 +1,93 @@
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@100;200;300;400;500;600;700&display=swap');
+
+  * {
+    padding: 0;
+    margin: 0;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  }
+
+  .regular-12 {
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  .regular-14 {
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .regular-16 {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .regular-18 {
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  .regular-20 {
+    font-size: 20px;
+    font-weight: 400;
+  }
+
+  .regular-24 {
+    font-size: 24px;
+    font-weight: 400;
+  }
+
+  .bold-12 {
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  .bold-14 {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .bold-16 {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .bold-18 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .bold-20 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .bold-24 {
+    font-size: 24px;
+    font-weight: 600;
+  }
+
+  nav {
+    background: #FFF;
+    box-shadow: 0px 4px 20px 0px rgba(104, 8, 10, 0.25);
+  }
+
+  .buy-icon {
+    background: #A62929;
+    color: #FFF;
+    border-radius: 30px;
+  }
+
+  .nav-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .section-top {
+  }
+
+  .buy-btn {
+    border-radius: 40px;
+    background: #FFF;
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.25);
+  }
